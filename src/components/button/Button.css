@@ -1,0 +1,13 @@
+.button-back,
+.button-next {
+  margin-right: 50px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 8px 16px;
+  font-weight: 600;
+}
+.button-next {
+  margin-left: 50px;
+  background-color: black;
+  color: #fff;
+}

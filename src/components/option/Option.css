@@ -1,0 +1,23 @@
+.option-list {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding: 8px;
+  border-radius: 8px;
+  margin-top: 12px;
+}
+.option {
+  border: 1px solid;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  margin-right: 30px;
+  padding: 10px;
+}
+.option-heading {
+  margin-right: 34px;
+}
+.option-icon {
+  display: flex;
+  justify-content: center;
+}

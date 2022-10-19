@@ -1,0 +1,21 @@
+.trending {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.trending-heading {
+  margin-bottom: 20px;
+}
+.trending-img {
+  width: 130px;
+  height: 80px;
+  border-radius: 8px;
+}
+.trending-desc p {
+  z-index: 1;
+  position: relative;
+  top: -26px;
+  left: 20px;
+  color: #fff;
+  font-weight: bolder;
+}

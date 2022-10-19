@@ -1,0 +1,23 @@
+.app-logo {
+  width: 50px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.app-logo-home,
+.app-heading-info {
+  display: flex;
+  align-items: center;
+}
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.app-heading-tips {
+  margin-right: 40px;
+}
+.app-heading-about-us {
+  border: 1px solid;
+  padding: 5px 22px;
+  border-radius: 10px;
+}
